@@ -1,0 +1,16 @@
+.welcome_page {
+    color: blanchedalmond;
+    font-size: 30px;
+    padding: 9px;
+    text-align: center;
+    color: green;
+    background: whitesmoke;
+}
+.edit_form .input {
+    width: 136px;
+    padding: 12px;
+    background: rgb(234 243 234);
+    font-size: 14px;
+    border-radius: 3px solid rgb(106, 139, 106);
+    cursor: pointer;
+}

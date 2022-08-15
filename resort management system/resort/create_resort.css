@@ -1,0 +1,72 @@
+.welcome_page {
+    color: blanchedalmond;
+    font-size: 30px;
+    padding: 9px;
+    text-align: center;
+    color: green;
+    background: whitesmoke;
+    margin: 0 auto;
+}
+.main_div_create{
+    display: flex;
+}
+.add_form_section {
+    margin-top: 23px;
+    padding: 10px;
+    margin-bottom: 23px;
+    background: aliceblue;
+    width: 246px;
+    height: 618px;
+    border-radius: 16px;
+}
+.add_form_section form {
+    padding: 13px;
+}
+
+.add_form_section form input {
+    width: 136px;
+    padding: 12px;
+    background: rgb(131, 184, 131);
+    font-size: 14px;
+    border-radius: 3px solid rgb(106, 139, 106) ;
+    cursor: pointer;
+}
+.add_form_section form input:hover{
+    width: 136px;
+    padding: 12px;
+    background: rgb(124, 153, 124);
+    font-size: 14px;
+    border-radius: 3px solid rgb(106, 139, 106) ;
+    cursor: pointer;
+}
+
+.create_resort {
+    background: aliceblue;
+    width: 407px;
+    height: 408px;
+    border-radius: 4px;
+    margin: 0 auto;
+    padding: 23px;
+    margin-top: 83px;
+}
+.create_resort .form_resort input {
+    margin: 0, auto;
+    font-size: 28px;
+    margin-top: 4px;
+    margin-bottom: 11px;
+    /* margin-left: 54px; */
+}
+input.save {
+    margin-left: 237px;
+    width: 111px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+input .save :hover{
+    
+    margin-left: 237px;
+    width: 111px;
+    padding: 3px;
+    background: aliceblue;
+}

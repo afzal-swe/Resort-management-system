@@ -1,0 +1,11 @@
+input[type="text"] {
+    padding: 8px;
+    border-radius: 7px;
+    margin-inline-end: inherit;
+    margin: 0 auto;
+}
+input[type="submit"] {
+    padding: 8px;
+    border-radius: 7px;
+    cursor: pointer;
+}

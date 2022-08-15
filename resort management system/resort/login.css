@@ -1,0 +1,23 @@
+.login {
+    background: darkgray;
+    width: 336px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.login form {
+    margin-top: -16px;
+}
+.login form input {
+    margin-top: 12px;
+    padding: 6px;
+    border-radius: 3px;
+    width: 209px;
+}
+.login .form_section .submit {
+    background: aliceblue;
+    cursor: pointer;
+}
